@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       doubanId:
-        description: 'douban id:198738751'
+        description: 'douban id'
         required: true
 
 jobs:
