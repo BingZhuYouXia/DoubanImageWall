@@ -4,7 +4,7 @@ on:
   # Uncomment line 5 and line 6 to activate scheduled run.
   # schedule:
   #   - cron: '0 6 * * *' # 6:00 UTC everyday
-  workflow_dispatch:
+  workflow_dispatch:0df993c66c0c636e29ecbb5344252a4a 0b2bdeda43b5688921839c8ecb20399b
 
 jobs:
   build:
